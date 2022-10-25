@@ -1,20 +1,19 @@
 ---
-name: Casey Greene
+name: Jesús Rodríguez
 aliases:
-  - Casey S. Greene
-  - Casey Greene
-  - Casey S Greene
-  - C.S. Greene
-  - C. S. Greene
-image: images/team/casey.jpg
+  - Jesús Rodríguez Díaz
+  - Jesús Rodríguez-Díaz
+  - J. Rodríguez
+  - J. Rodríguez-Díaz
+image: images/team/jesus.jpg
 role: pi
 links:
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0002-9698-7684
   home-page: https://greenelab.com
-  email: casey.s.greene@cuanschutz.edu
-  google-scholar: ETJoidYAAAAJ
-  github: cgreene
-  twitter: greenescientist
+  email: jesus.rodriguez@uv.es
+  google-scholar: PdnXlAcAAAAJ
+  github: gastrovirus-uv
+  twitter: jrodriguezbio
 ---
 
 Casey is the Chair of and a Professor in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi) and the founding Director of the [Center for Health AI](https://medschool.cuanschutz.edu/ai).
