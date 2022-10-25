@@ -8,8 +8,8 @@ background: images/backgrounds/anschutz.jpg
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [University of Colorado School of Medicine](https://medschool.cuanschutz.edu/)'s [Department of Biochemistry and Molecular Genetics](https://medschool.cuanschutz.edu/biochemistry) and Center for Health AI.
-We are a geographically distributed team that is headquartered on the 6th Floor of the [Anschutz Health Sciences Building](https://www.ucdenver.edu/about/departments/FacilitiesManagement/FacilitiesProjects/ActiveProjects/Pages/AnschutzHealthSciencesBldg.aspx).
+Our lab is part of the [University of Valencia](https://www.uv.es/)'s [Department of Microbiology and Ecology](https://www.uv.es/uvweb/departamento-microbiologia-ecologia/es/departamento-microbiologia-ecologia-1285859733104.html).
+
 
 {%
   include figure.html
