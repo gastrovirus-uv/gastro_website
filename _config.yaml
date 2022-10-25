@@ -7,7 +7,7 @@ logo: images/logo.svg
 logo-text: false
 header: images/backgrounds/laptop-paper.jpg
 footer: images/backgrounds/laptop-paper.jpg
-baseurl: https://gastroweb.netlify.app
+baseurl: /gastro_website
 
 # site social media and other links
 links:
